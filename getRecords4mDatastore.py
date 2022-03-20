@@ -1,5 +1,6 @@
 from google.cloud import datastore
 from google.oauth2 import service_account
+import asyncio
 
 import firebase_admin
 from firebase_admin import credentials
