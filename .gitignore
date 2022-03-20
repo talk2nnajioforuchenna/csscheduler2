@@ -1,4 +1,3 @@
-Dockerfile
 *.pyc
 *.pyo
 *.pyd
@@ -7,6 +6,4 @@ __pycache__
 .idea
 .vscode
 venv
-*.sh
-*.md
-.gitignore
+*.json
